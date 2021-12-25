@@ -1,2 +1,2 @@
 # testrepo
-This is a test.
+This is simply a test.
